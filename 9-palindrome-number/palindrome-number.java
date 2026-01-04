@@ -5,7 +5,8 @@ class Solution {
         int temp = x;
         int reverse = 0;
         while(temp != 0){
-            reverse = reverse * 10 + temp % 10;
+            int ld = temp % 10;
+            reverse = reverse * 10 + ld;
             temp /= 10;
         }
     return (reverse == x);
