@@ -12,7 +12,7 @@ class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
         if(head == null || head.next == null) return head;
 
-         // Check if there are at least k nodes (speical case)
+         // Check if there are at least k nodes (speical case copied from chatgpt)
         ListNode temp = head;
         int count = 0;
         while(count < k && temp != null){
