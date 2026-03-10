@@ -12,7 +12,7 @@ class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
         if(head == null || head.next == null) return head;
 
-         // Check if there are at least k nodes
+         // Check if there are at least k nodes (speical case)
         ListNode temp = head;
         int count = 0;
         while(count < k && temp != null){
@@ -21,6 +21,8 @@ class Solution {
         }
 
         if(count < k) return head;
+
+        // Now that's my real code
 
         ListNode prev = null;
         ListNode curr = head;
