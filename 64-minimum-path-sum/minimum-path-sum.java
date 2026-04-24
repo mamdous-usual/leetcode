@@ -15,9 +15,9 @@ class Solution {
 
     public int pathHelper(int i, int j, int[][] grid, int[][] dp) {
         if(i<0 || j < 0) return Integer.MAX_VALUE;
-        if(i == 0 && j == 0) return grid[0][0];
         if(dp[i][j] != -1) return dp[i][j];
-
+        if(i == 0 && j == 0) return grid[0][0];
+       
         int x = pathHelper(i-1, j, grid, dp);
         int y = pathHelper(i, j-1, grid, dp);
 
