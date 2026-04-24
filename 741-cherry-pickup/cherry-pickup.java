@@ -25,7 +25,7 @@ class Solution {
         }
 
         // base case
-        if(row1 == 0 && col1 == 0) {
+        if(row1 == 0 && col1 == 0 && row2 == 0 && col2 == 0) {
             return grid[0][0];
         }
 
