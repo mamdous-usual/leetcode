@@ -13,8 +13,9 @@ class Solution {
     }
 
      public int pathHelper(int m, int n, int[][] dp) {
-            if(m == 0 || n == 0) return 1;
+            if(m < 0 || n < 0) return 0;
             if(dp[m][n] != -1) return dp[m][n];
+            if(m == 0 || n == 0) return 1;
 
             int x = pathHelper(m-1, n, dp);
             int y = pathHelper(m, n-1, dp);
