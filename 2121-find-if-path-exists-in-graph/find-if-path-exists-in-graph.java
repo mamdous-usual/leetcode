@@ -8,19 +8,19 @@ class Solution {
         q.add(source);
         vis[source] = true;
 
-        while(q.size() > 0) {
+        while(!q.isEmpty()) {
             int rem = q.remove();
             List<Integer> nbrs = graph.get(rem);
 
             for(int v : nbrs) {
-                if (vis[v] == false) {
+                if (!vis[v]) {
                     q.add(v);
                     vis[v] = true;
                 }
             }
         }
 
-        if(vis[destination] == false) return false;
+        if(!vis[destination]) return false;
         else return true;
     }
 
