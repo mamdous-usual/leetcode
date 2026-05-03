@@ -7,7 +7,6 @@ class Solution {
             char temp = s[sp];
             s[sp] = s[ep];
             s[ep] = temp;
-
             sp++;
             ep--;
         }
