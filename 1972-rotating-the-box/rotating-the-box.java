@@ -1,25 +1,27 @@
 class Solution {
-    public char[][] rotateTheBox(char[][] grid) {
-         int rows = grid.length;
-        int cols = grid[0].length;
-        for (int r = 0; r < rows; r++) {
+    public char[][] rotateTheBox(char[][] boxGrid) {
+         int rows = boxGrid.length;
+        int cols = boxGrid[0].length;
+        for (int i = 0; i < rows; i++) {
             int p = 0;
-            for (int c = 0; c < cols; c++) {
-                if (grid[r][c] == '.') {
-                    char temp = grid[r][c];
-                    grid[r][c] = grid[r][p];
-                    grid[r][p] = temp;
+            for (int j = 0; j < cols; j++) {
+                if (boxGrid[i][j] == '.') {
+                    char temp = boxGrid[i][j];
+                    boxGrid[i][j] = boxGrid[i][p];
+                    boxGrid[i][p] = temp;
                     p++;
-                } else if (grid[r][c] == '*')
-                    p = c + 1;
+                } else if (boxGrid[i][j] == '*') {
+                    p = j + 1;
+                }
+                   
             }
         }
         
-        char[][] res = new char[cols][rows];
-        for (int r = 0; r < rows; r++)
-            for (int c = 0; c < cols; c++)
-                res[c][rows - 1 - r] = grid[r][c];
+        char[][] ans = new char[cols][rows];
+        for (int i = 0; i < rows; i++)
+            for (int j = 0; j < cols; j++)
+                ans[j][rows - 1 - i] = boxGrid[i][j];
                 
-        return res;
+        return ans;
     }
 }
