@@ -1,10 +1,10 @@
 class Solution {
     public char[][] rotateTheBox(char[][] boxGrid) {
-         int rows = boxGrid.length;
+        int rows = boxGrid.length;
         int cols = boxGrid[0].length;
-        for (int i = 0; i < rows; i++) {
+        for (int i = 0; i < rows; i++) { // i = row, j = col
             int p = 0;
-            for (int j = 0; j < cols; j++) {
+            for (int j = 0; j < cols; j++) { 
                 if (boxGrid[i][j] == '.') {
                     char temp = boxGrid[i][j];
                     boxGrid[i][j] = boxGrid[i][p];
