@@ -1,19 +1,28 @@
 class Solution {
-    public int countPrimes(int n) { // Sieve Algorithm
-         boolean[] primes = new boolean[n+1];
+    public int countPrimes(int n) {
+        if (n <= 2)
+            return 0;
 
-         Arrays.fill(primes,true);
+        boolean[] p = new boolean[n];
+        Arrays.fill(p, true);
 
-         int count = 0;
+        p[0] = false;
+        p[1] = false;
 
-         for(int i=2; i<n; i++){
-            if(primes[i]){
-                count++;
-                for(int j=2*i; j<n; j = j+i){
-                    primes[j] = false;
+        for (int i = 2; i * i < n; i++) {
+            if (p[i]) {
+                for (int j = i * i; j < n; j += i) {
+                    p[j] = false;
                 }
             }
-         }
-         return count;
+        }
+
+        int count = 0;
+        for (int i = 2; i < n; i++) {
+            if (p[i])
+                count++;
+        }
+
+        return count;
     }
 }
