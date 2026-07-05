@@ -1,59 +1,62 @@
 class Solution {
-    static int n;
-    static List<String>board;
-    static Pair [][]dp;
-    static int MOD=1_000_000_007;
+    private static final int MOD = 1_000_000_007;
+    private static final int NEG = -(int)1e9;
+
+    private int n;
+    private List<String> board;
+    private Pair[][] dp;
+
     public int[] pathsWithMaxScore(List<String> board) {
-        n=board.size();
-        this.board=board;
-        dp=new Pair[n][n];
-        Pair ans=solve(0,0);
-        if(ans.score<0){
-            return new int[]{0,0};
-        }
-        return new int[]{ans.score,ans.path};
+        this.board = board;
+        n = board.size();
+        dp = new Pair[n][n];
+
+        Pair ans = dfs(0, 0);
+
+        return ans.score < 0
+                ? new int[]{0, 0}
+                : new int[]{ans.score, ans.path};
     }
-    public Pair solve(int i,int j){
-        if(i>=n||j>=n){
-            return new Pair(-1000000000,0);
-        }
-        char ch=board.get(i).charAt(j);
-        if(ch=='X'){
-            return new Pair(-1000000000,0);
-        }
-        if(i==n-1&&j==n-1){
-            return new Pair(0,1);
-        }
-        if(dp[i][j]!=null){
+
+    private Pair dfs(int i, int j) {
+        if (i >= n || j >= n)
+            return new Pair(NEG, 0);
+
+        char ch = board.get(i).charAt(j);
+
+        if (ch == 'X')
+            return new Pair(NEG, 0);
+
+        if (i == n - 1 && j == n - 1)
+            return new Pair(0, 1);
+
+        if (dp[i][j] != null)
             return dp[i][j];
-        }
-        Pair down=solve(i+1,j);
-        Pair right=solve(i,j+1);
-        Pair diag=solve(i+1,j+1);
-        int max=Math.max(down.score,Math.max(right.score,diag.score));
-        long ways=0;
-        if(down.score==max){
-            ways+=down.path;
-        }
-        if(right.score==max){
-            ways+=right.path;
-        }
-        if(diag.score==max){
-            ways+=diag.path;
-        }
-        ways%=MOD;
-        int val=0;
-        if(ch!='E'&&ch!='S'){
-            val=ch-'0';
-        }
-        return dp[i][j]=new Pair(max+val,(int)ways);
+
+        Pair down = dfs(i + 1, j);
+        Pair right = dfs(i, j + 1);
+        Pair diagonal = dfs(i + 1, j + 1);
+
+        int best = Math.max(down.score, Math.max(right.score, diagonal.score));
+
+        long ways = 0;
+        if (down.score == best) ways += down.path;
+        if (right.score == best) ways += right.path;
+        if (diagonal.score == best) ways += diagonal.path;
+        ways %= MOD;
+
+        int value = Character.isDigit(ch) ? ch - '0' : 0;
+
+        return dp[i][j] = new Pair(best + value, (int) ways);
     }
-    public class Pair{
+
+    class Pair {
         int score;
         int path;
-        Pair(int score,int path){
-            this.score=score;
-            this.path=path;
+
+        Pair(int score, int path) {
+            this.score = score;
+            this.path = path;
         }
     }
 }
