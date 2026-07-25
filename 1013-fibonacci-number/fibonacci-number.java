@@ -6,7 +6,7 @@ class Solution {
        return fibHelper(n,dp);
     }
 
-    static int fibHelper(int n, int[] dp) {
+    int fibHelper(int n, int[] dp) {
         if(n == 0 || n == 1) return n;
         if(dp[n] != -1) return dp[n];
 
