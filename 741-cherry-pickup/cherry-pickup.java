@@ -3,7 +3,6 @@ class Solution {
         int n = grid.length;
         int m = grid[0].length;
 
-        // start from bottom-right since you're moving backwards
         int ans = pickupHelper(n-1, m-1, n-1, grid, new Integer[n][m][n]);
 
         if(ans == Integer.MIN_VALUE) {
@@ -16,7 +15,6 @@ class Solution {
     public int pickupHelper(int row1, int col1, int row2, int[][] grid, Integer[][][] dp) {
         int col2 = row1 + col1 - row2;
 
-        // ✅ fix 1: correct bounds + obstacle check
         if(row1 < 0 || row2 < 0 || col1 < 0 || col2 < 0 ||
            row1 >= grid.length || row2 >= grid.length ||
            col1 >= grid[0].length || col2 >= grid[0].length ||
@@ -24,7 +22,7 @@ class Solution {
             return Integer.MIN_VALUE;
         }
 
-        // base case
+
         if(row1 == 0 && col1 == 0 && row2 == 0 && col2 == 0) {
             return grid[0][0];
         }
@@ -40,7 +38,6 @@ class Solution {
 
         int ans = Math.max(Math.max(temp1, temp2), Math.max(temp3, temp4));
 
-        // ✅ fix 2: handle all invalid paths
         if(ans == Integer.MIN_VALUE) {
             return dp[row1][col1][row2] = Integer.MIN_VALUE;
         }
