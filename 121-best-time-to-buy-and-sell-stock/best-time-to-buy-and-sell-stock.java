@@ -6,12 +6,12 @@ class Solution {
         for(int i=0; i<prices.length; i++) {
             int currentPrice = prices[i];
 
-            int currentProfit = currentPrice - minPrice;
 
             if(currentPrice < minPrice) {
                 minPrice = currentPrice;
-            } else if(currentProfit > maxProfit) {
-                maxProfit = currentProfit;
+            } else {
+                int currentProfit = currentPrice - minPrice;
+                maxProfit = Math.max(maxProfit, currentProfit);
             }
         }
 
