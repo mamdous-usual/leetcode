@@ -6,7 +6,6 @@ class Solution {
         for(int i=0; i<prices.length; i++) {
             int currentPrice = prices[i];
 
-
             if(currentPrice < minPrice) {
                 minPrice = currentPrice;
             } else {
