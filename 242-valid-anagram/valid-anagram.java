@@ -3,9 +3,9 @@ class Solution {
        if(s.length() != t.length()){
             return false;
        }
-
-       char[] sArr = s.toLowerCase().toCharArray();
-       char[] tArr = t.toLowerCase().toCharArray();
+       
+       char[] sArr = s.toCharArray();
+       char[] tArr = t.toCharArray();
 
        Arrays.sort(sArr);
        Arrays.sort(tArr);
