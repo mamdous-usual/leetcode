@@ -1,5 +1,5 @@
 class Solution {
-    /*
+
     public boolean isAnagram(String s, String t) {
         if(s.length() != t.length()){
             return false;
@@ -26,7 +26,7 @@ class Solution {
 
         return true;
     }
-    */
+
 
 
     /*
@@ -59,7 +59,7 @@ class Solution {
     }
     */
 
-
+/*
     public boolean isAnagram(String s, String t) {
        if(s.length() != t.length()){
             return false;
@@ -80,4 +80,5 @@ class Solution {
         return true;
         // return Arrays.equals(sArr, tArr);
     }
+    */
 }
