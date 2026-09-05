@@ -4,7 +4,7 @@ class Solution {
 
        for(int i=0; i<strs.length; i++) {
             String word = strs[i];
-            
+
             char[] chars = word.toCharArray();
             Arrays.sort(chars);
             String key = new String(chars);
