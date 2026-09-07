@@ -16,7 +16,9 @@ class Solution {
                 }
 
                 seen.add(currentChar);
-                maxLength = Math.max(maxLength, seen.size());
+                // maxLength = Math.max(maxLength, seen.size());
+                maxLength = Math.max(maxLength, j-i+1);
+
             }
         }
 
