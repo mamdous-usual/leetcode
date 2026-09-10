@@ -11,30 +11,44 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-                if (head == null || head.next == null) {
+        if (head == null || head.next == null) {
             return false;
         }
 
-        // Initialize slow and fast pointers at the head
         ListNode slow = head;
         ListNode fast = head;
 
-        // Traverse the list with two pointers
         while (fast != null && fast.next != null) {
-            // Move slow pointer by 1 step
             slow = slow.next;
-
-            // Move fast pointer by 2 steps
             fast = fast.next.next;
 
-            // If slow and fast meet, a cycle exists
-            if (slow == fast) {
+            if (fast == slow) {
                 return true;
             }
         }
+        return false;
+    }
+    /*
+        public boolean hasCycle(ListNode head) {
+        if (head == null || head.next == null) {
+            return false;
+        }
 
-        // If fast reached the end, there is no cycle
+        Set<ListNode> visited = new HashSet<>();
+
+        ListNode curr = head;
+
+        while (curr != null) {
+            if (visited.contains(curr)) {
+                return true;
+            }
+
+            visited.add(curr);
+            curr = curr.next;
+        }
+
         return false;
 
     }
+    */
 }
