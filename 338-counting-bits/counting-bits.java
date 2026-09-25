@@ -1,16 +1,12 @@
 class Solution {
     public int[] countBits(int n) {
-        int[] ans = new int[n + 1];
-        ans[0] = 0; // Base case: 0 has 0 set bits
+        int[] ans = new int[n+1]; 
+        ans[0] = 0;
 
-        for (int i = 1; i <= n; i++) {
-            if ((i & 1) == 0) {
-                // i is even → last bit is 0
-                // f(i) = f(i / 2)
+        for(int i=1; i<=n; i++) {
+            if((i&1) == 0) {
                 ans[i] = ans[i >> 1];
             } else {
-                // i is odd → last bit is 1
-                // f(i) = f(i / 2) + 1
                 ans[i] = ans[i >> 1] + 1;
             }
         }
@@ -18,6 +14,22 @@ class Solution {
         return ans;
     }
 
+    /*
+    public int[] countBits(int n) {
+        int[] ans = new int[n+1];
+        ans[0] = 0;
+
+        for(int i=1; i<=n; i++) {
+            if(i % 2 == 0) {
+                ans[i] = ans[i/2];
+            } else {
+                ans[i] = ans[i/2] + 1;
+            }
+        }
+
+        return ans;
+    }
+    */
 
 
     /*
