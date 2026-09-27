@@ -4,11 +4,8 @@ class Solution {
         
         for(int i=0; i<32; i++) {
             int lsb = n & 1;
-
             result = result << 1;
-
             result = result | lsb;
-
             n = n >>> 1;
         }
 
