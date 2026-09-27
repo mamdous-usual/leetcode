@@ -10,7 +10,6 @@ class Solution {
                 ans[i] = ans[i >> 1] + 1;
             }
         }
-
         return ans;
     }
 
