@@ -6,7 +6,6 @@ class Solution {
             a = sum;
             b = carry;
        }
-
        return a;
     }
 }
