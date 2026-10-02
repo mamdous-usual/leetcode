@@ -48,7 +48,6 @@ class Solution {
                 matrix[i][0] = 0;
             }
         }
-
     }
 
     /* public void setZeroes(int[][] matrix) {
