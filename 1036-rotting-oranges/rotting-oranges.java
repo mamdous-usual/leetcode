@@ -11,20 +11,21 @@ class Pair {
 }
 
 class Solution {
+
     public int orangesRotting(int[][] grid) {
-        Queue <Pair> q = new LinkedList<>();
+        Queue<Pair> q = new LinkedList<>();
 
         int n = grid.length;
         int m = grid[0].length;
 
-        int fresh = 0;
+        int fresh = 0; // For LC edges case
 
-        for (int i=0; i<n; i++) {
-            for(int j=0; j<m; j++) {
-                if(grid[i][j] == 2) {
-                    Pair p = new Pair(i,j,0);
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 2) {
+                    Pair p = new Pair(i, j, 0);
                     q.add(p);
-                }else if (grid[i][j] == 1) {
+                } else if (grid[i][j] == 1) {
                     fresh++;
                 }
             }
@@ -32,7 +33,7 @@ class Solution {
 
         int ans = -1;
 
-        while(!q.isEmpty()) {
+        while (!q.isEmpty()) {
             Pair rem = q.remove();
             int Crow = rem.i;
             int Ccol = rem.j;
@@ -41,39 +42,40 @@ class Solution {
             ans = Ctime;
 
             // Crow - 1, Ccol -> Up
-            if(Crow - 1 >= 0 && grid[Crow-1][Ccol] == 1) {
-                Pair p = new Pair(Crow-1,Ccol,Ctime+1);
+            if (Crow - 1 >= 0 && grid[Crow - 1][Ccol] == 1) {
+                Pair p = new Pair(Crow - 1, Ccol, Ctime + 1);
                 q.add(p);
-                grid[Crow-1][Ccol] = 2;
+                grid[Crow - 1][Ccol] = 2;
             }
 
             // Crow, Ccol+1 -> Right
-            if(Ccol+1 < m && grid[Crow][Ccol+1] == 1) {
-                Pair p = new Pair(Crow,Ccol+1,Ctime+1);
+            if (Ccol + 1 < m && grid[Crow][Ccol + 1] == 1) {
+                Pair p = new Pair(Crow, Ccol + 1, Ctime + 1);
                 q.add(p);
-                grid[Crow][Ccol+1] = 2;
+                grid[Crow][Ccol + 1] = 2;
             }
 
             // Crow+1, Ccol, -> Down
-            if(Crow+1 < n && grid[Crow+1][Ccol] == 1) {
-                Pair p = new Pair(Crow+1, Ccol, Ctime+1);
+            if (Crow + 1 < n && grid[Crow + 1][Ccol] == 1) {
+                Pair p = new Pair(Crow + 1, Ccol, Ctime + 1);
                 q.add(p);
-                grid[Crow+1][Ccol] = 2;
+                grid[Crow + 1][Ccol] = 2;
             }
 
             // Crow, Ccol-1 -> Left
-            if(Ccol-1 >= 0 && grid[Crow][Ccol-1] == 1) {
-                Pair p = new Pair(Crow, Ccol-1, Ctime+1);
+            if (Ccol - 1 >= 0 && grid[Crow][Ccol - 1] == 1) {
+                Pair p = new Pair(Crow, Ccol - 1, Ctime + 1);
                 q.add(p);
-                grid[Crow][Ccol-1] = 2;
+                grid[Crow][Ccol - 1] = 2;
             }
         }
 
-        if (fresh == 0) return 0;
-        
-        for(int i=0; i<n; i++) {
-            for(int j=0; j<m; j++) {
-                if(grid[i][j] == 1) {
+        if (fresh == 0)
+            return 0;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 1) {
                     return -1;
                 }
             }
@@ -81,4 +83,5 @@ class Solution {
 
         return ans;
     }
+
 }
