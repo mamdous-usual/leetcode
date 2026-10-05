@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mamdous-usual/leetcode/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/mamdous-usual/leetcode/tree/master/0136-single-number) |
 | [2058-concatenation-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mamdous-usual/leetcode/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mamdous-usual/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
