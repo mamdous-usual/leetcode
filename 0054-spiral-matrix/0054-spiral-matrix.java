@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> ans = new ArrayList<>();
-
+        
         int rowBegin = 0;
         int rowEnd = matrix.length - 1;
         int colBegin = 0; 
