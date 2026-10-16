@@ -58,6 +58,7 @@
 | [0079-word-search](https://github.com/mamdous-usual/leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/mamdous-usual/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0226-invert-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -71,15 +72,18 @@
 | ------- |
 | [0100-same-tree](https://github.com/mamdous-usual/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0226-invert-binary-tree) |
 | [1036-rotting-oranges](https://github.com/mamdous-usual/leetcode/tree/master/1036-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mamdous-usual/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mamdous-usual/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
