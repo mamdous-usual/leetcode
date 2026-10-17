@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mamdous-usual/leetcode/tree/master/0079-word-search) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0226-invert-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mamdous-usual/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mamdous-usual/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
@@ -79,6 +81,7 @@
 | [0100-same-tree](https://github.com/mamdous-usual/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1036-rotting-oranges](https://github.com/mamdous-usual/leetcode/tree/master/1036-rotting-oranges) |
 ## Tree
 |  |
@@ -91,6 +94,7 @@
 | [0226-invert-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mamdous-usual/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mamdous-usual/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -103,6 +107,7 @@
 | [0226-invert-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mamdous-usual/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mamdous-usual/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -141,4 +146,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mamdous-usual/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
