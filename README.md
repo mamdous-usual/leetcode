@@ -60,6 +60,7 @@
 | [0100-same-tree](https://github.com/mamdous-usual/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mamdous-usual/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/mamdous-usual/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
@@ -83,6 +84,7 @@
 | [0100-same-tree](https://github.com/mamdous-usual/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mamdous-usual/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/mamdous-usual/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -91,6 +93,7 @@
 | [0100-same-tree](https://github.com/mamdous-usual/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mamdous-usual/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/mamdous-usual/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -104,4 +107,5 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mamdous-usual/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mamdous-usual/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
