@@ -25,6 +25,7 @@
 | [0136-single-number](https://github.com/mamdous-usual/leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/mamdous-usual/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mamdous-usual/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mamdous-usual/leetcode/tree/master/0322-coin-change) |
 | [0861-flipping-an-image](https://github.com/mamdous-usual/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/mamdous-usual/leetcode/tree/master/0898-transpose-matrix) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mamdous-usual/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mamdous-usual/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0300-longest-increasing-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/mamdous-usual/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/mamdous-usual/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mamdous-usual/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mamdous-usual/leetcode/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/1250-longest-common-subsequence) |
 ## DP on Trees
@@ -188,4 +191,8 @@
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/1250-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
