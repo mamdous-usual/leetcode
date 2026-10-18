@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/mamdous-usual/leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/mamdous-usual/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mamdous-usual/leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/mamdous-usual/leetcode/tree/master/0079-word-search) |
@@ -58,6 +59,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/mamdous-usual/leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/mamdous-usual/leetcode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
