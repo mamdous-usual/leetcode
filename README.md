@@ -23,6 +23,7 @@
 | [0079-word-search](https://github.com/mamdous-usual/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mamdous-usual/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/mamdous-usual/leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/mamdous-usual/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mamdous-usual/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mamdous-usual/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mamdous-usual/leetcode/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/mamdous-usual/leetcode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1250-longest-common-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mamdous-usual/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/mamdous-usual/leetcode/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 | [0062-unique-paths](https://github.com/mamdous-usual/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mamdous-usual/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mamdous-usual/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/mamdous-usual/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mamdous-usual/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mamdous-usual/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -175,6 +179,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mamdous-usual/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/mamdous-usual/leetcode/tree/master/0139-word-break) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -195,4 +200,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mamdous-usual/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mamdous-usual/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
