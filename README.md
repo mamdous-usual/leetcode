@@ -56,6 +56,7 @@
 | ------- |
 | [0079-word-search](https://github.com/mamdous-usual/leetcode/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1250-longest-common-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [0198-house-robber](https://github.com/mamdous-usual/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mamdous-usual/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/mamdous-usual/leetcode/tree/master/0322-coin-change) |
+| [1250-longest-common-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/1250-longest-common-subsequence) |
 ## DP on Trees
 |  |
 | ------- |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mamdous-usual/leetcode/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
