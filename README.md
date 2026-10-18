@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/mamdous-usual/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/mamdous-usual/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mamdous-usual/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/mamdous-usual/leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mamdous-usual/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mamdous-usual/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## DP on Trees
 |  |
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mamdous-usual/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
