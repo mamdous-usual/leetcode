@@ -30,6 +30,7 @@
 | [0213-house-robber-ii](https://github.com/mamdous-usual/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mamdous-usual/leetcode/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0861-flipping-an-image](https://github.com/mamdous-usual/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/mamdous-usual/leetcode/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/mamdous-usual/leetcode/tree/master/1036-rotting-oranges) |
@@ -168,6 +169,7 @@
 | [0213-house-robber-ii](https://github.com/mamdous-usual/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mamdous-usual/leetcode/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1250-longest-common-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/1250-longest-common-subsequence) |
 ## DP on Trees
 |  |
@@ -214,8 +216,13 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
