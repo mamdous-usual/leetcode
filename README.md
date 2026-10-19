@@ -20,6 +20,7 @@
 | [0039-combination-sum](https://github.com/mamdous-usual/leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/mamdous-usual/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mamdous-usual/leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/mamdous-usual/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mamdous-usual/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/mamdous-usual/leetcode/tree/master/0136-single-number) |
@@ -208,4 +209,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mamdous-usual/leetcode/tree/master/0139-word-break) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
