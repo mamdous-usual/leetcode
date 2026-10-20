@@ -36,6 +36,7 @@
 | [0898-transpose-matrix](https://github.com/mamdous-usual/leetcode/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/mamdous-usual/leetcode/tree/master/1036-rotting-oranges) |
 | [2058-concatenation-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2058-concatenation-of-array) |
+| [3430-count-days-without-meetings](https://github.com/mamdous-usual/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Simulation
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [3430-count-days-without-meetings](https://github.com/mamdous-usual/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Quicksort
 |  |
 | ------- |
