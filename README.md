@@ -24,6 +24,7 @@
 | [0057-insert-interval](https://github.com/mamdous-usual/leetcode/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/mamdous-usual/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mamdous-usual/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/mamdous-usual/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mamdous-usual/leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/mamdous-usual/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mamdous-usual/leetcode/tree/master/0198-house-robber) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mamdous-usual/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/mamdous-usual/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/mamdous-usual/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/mamdous-usual/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/mamdous-usual/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -251,4 +253,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/mamdous-usual/leetcode/tree/master/0133-clone-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mamdous-usual/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
