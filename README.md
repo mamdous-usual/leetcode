@@ -104,6 +104,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/mamdous-usual/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0861-flipping-an-image](https://github.com/mamdous-usual/leetcode/tree/master/0861-flipping-an-image) |
 ## Breadth-First Search
 |  |
@@ -204,6 +205,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mamdous-usual/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mamdous-usual/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/mamdous-usual/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mamdous-usual/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Memoization
 |  |
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0056-merge-intervals) |
+| [0295-find-median-from-data-stream](https://github.com/mamdous-usual/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mamdous-usual/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [3430-count-days-without-meetings](https://github.com/mamdous-usual/leetcode/tree/master/3430-count-days-without-meetings) |
@@ -268,6 +271,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/mamdous-usual/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mamdous-usual/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -281,4 +285,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mamdous-usual/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/mamdous-usual/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
