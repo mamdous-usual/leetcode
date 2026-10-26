@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/mamdous-usual/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/mamdous-usual/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mamdous-usual/leetcode/tree/master/0070-climbing-stairs) |
+| [0507-perfect-number](https://github.com/mamdous-usual/leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/mamdous-usual/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
