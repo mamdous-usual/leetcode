@@ -42,6 +42,7 @@
 | [0648-replace-words](https://github.com/mamdous-usual/leetcode/tree/master/0648-replace-words) |
 | [0861-flipping-an-image](https://github.com/mamdous-usual/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/mamdous-usual/leetcode/tree/master/0898-transpose-matrix) |
+| [1019-squares-of-a-sorted-array](https://github.com/mamdous-usual/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/mamdous-usual/leetcode/tree/master/1036-rotting-oranges) |
 | [2058-concatenation-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mamdous-usual/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0861-flipping-an-image](https://github.com/mamdous-usual/leetcode/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/mamdous-usual/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 | [0295-find-median-from-data-stream](https://github.com/mamdous-usual/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mamdous-usual/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1019-squares-of-a-sorted-array](https://github.com/mamdous-usual/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [3430-count-days-without-meetings](https://github.com/mamdous-usual/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Quicksort
 |  |
