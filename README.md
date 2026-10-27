@@ -11,6 +11,7 @@
 | [0070-climbing-stairs](https://github.com/mamdous-usual/leetcode/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/mamdous-usual/leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/mamdous-usual/leetcode/tree/master/1013-fibonacci-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0898-transpose-matrix](https://github.com/mamdous-usual/leetcode/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/mamdous-usual/leetcode/tree/master/1036-rotting-oranges) |
 | [2058-concatenation-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3430-count-days-without-meetings](https://github.com/mamdous-usual/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Simulation
 |  |
@@ -294,4 +296,16 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mamdous-usual/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
