@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/mamdous-usual/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/mamdous-usual/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mamdous-usual/leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/mamdous-usual/leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/mamdous-usual/leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/mamdous-usual/leetcode/tree/master/1013-fibonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -32,6 +33,7 @@
 | [0136-single-number](https://github.com/mamdous-usual/leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/mamdous-usual/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mamdous-usual/leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/mamdous-usual/leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/mamdous-usual/leetcode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/mamdous-usual/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/mamdous-usual/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -302,6 +304,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mamdous-usual/leetcode/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -311,4 +314,20 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mamdous-usual/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mamdous-usual/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mamdous-usual/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mamdous-usual/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
