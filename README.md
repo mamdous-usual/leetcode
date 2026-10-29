@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mamdous-usual/leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/mamdous-usual/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/mamdous-usual/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mamdous-usual/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/mamdous-usual/leetcode/tree/master/0062-unique-paths) |
@@ -75,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mamdous-usual/leetcode/tree/master/0013-roman-to-integer) |
 | [0079-word-search](https://github.com/mamdous-usual/leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/mamdous-usual/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/mamdous-usual/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -180,6 +182,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mamdous-usual/leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mamdous-usual/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/mamdous-usual/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/mamdous-usual/leetcode/tree/master/0133-clone-graph) |
