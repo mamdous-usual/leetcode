@@ -10,6 +10,7 @@
 | [0050-powx-n](https://github.com/mamdous-usual/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/mamdous-usual/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mamdous-usual/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/mamdous-usual/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/mamdous-usual/leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/mamdous-usual/leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/mamdous-usual/leetcode/tree/master/1013-fibonacci-number) |
@@ -114,6 +115,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mamdous-usual/leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/mamdous-usual/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0861-flipping-an-image](https://github.com/mamdous-usual/leetcode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/mamdous-usual/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -187,6 +189,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mamdous-usual/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/mamdous-usual/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/mamdous-usual/leetcode/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/mamdous-usual/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/mamdous-usual/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/mamdous-usual/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0648-replace-words](https://github.com/mamdous-usual/leetcode/tree/master/0648-replace-words) |
@@ -333,4 +336,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mamdous-usual/leetcode/tree/master/0204-count-primes) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mamdous-usual/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
