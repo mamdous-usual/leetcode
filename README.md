@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mamdous-usual/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/mamdous-usual/leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/mamdous-usual/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mamdous-usual/leetcode/tree/master/0054-spiral-matrix) |
@@ -115,6 +116,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mamdous-usual/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/mamdous-usual/leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/mamdous-usual/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0861-flipping-an-image](https://github.com/mamdous-usual/leetcode/tree/master/0861-flipping-an-image) |
