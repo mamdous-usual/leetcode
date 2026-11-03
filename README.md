@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/mamdous-usual/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mamdous-usual/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/mamdous-usual/leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/mamdous-usual/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mamdous-usual/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mamdous-usual/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/mamdous-usual/leetcode/tree/master/0204-count-primes) |
@@ -30,6 +31,7 @@
 | [0054-spiral-matrix](https://github.com/mamdous-usual/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mamdous-usual/leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/mamdous-usual/leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/mamdous-usual/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/mamdous-usual/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mamdous-usual/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -350,11 +352,11 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mamdous-usual/leetcode/tree/master/0202-happy-number) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mamdous-usual/leetcode/tree/master/0169-majority-element) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mamdous-usual/leetcode/tree/master/0169-majority-element) |
