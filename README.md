@@ -31,6 +31,7 @@
 | [0056-merge-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mamdous-usual/leetcode/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/mamdous-usual/leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/mamdous-usual/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mamdous-usual/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/mamdous-usual/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mamdous-usual/leetcode/tree/master/0136-single-number) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mamdous-usual/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/mamdous-usual/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/mamdous-usual/leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/mamdous-usual/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0861-flipping-an-image](https://github.com/mamdous-usual/leetcode/tree/master/0861-flipping-an-image) |
@@ -270,6 +272,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mamdous-usual/leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/mamdous-usual/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mamdous-usual/leetcode/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/mamdous-usual/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mamdous-usual/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -347,7 +350,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mamdous-usual/leetcode/tree/master/0202-happy-number) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mamdous-usual/leetcode/tree/master/0169-majority-element) |
