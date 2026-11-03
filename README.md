@@ -350,7 +350,11 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mamdous-usual/leetcode/tree/master/0202-happy-number) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mamdous-usual/leetcode/tree/master/0169-majority-element) |
+## BoyerâMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mamdous-usual/leetcode/tree/master/0169-majority-element) |
