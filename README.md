@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mamdous-usual/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1791-richest-customer-wealth](https://github.com/mamdous-usual/leetcode/tree/master/1791-richest-customer-wealth) |
 | [3321-type-of-triangle](https://github.com/mamdous-usual/leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mamdous-usual/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1791-richest-customer-wealth](https://github.com/mamdous-usual/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
