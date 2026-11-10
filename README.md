@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mamdous-usual/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3321-type-of-triangle](https://github.com/mamdous-usual/leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,16 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mamdous-usual/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/mamdous-usual/leetcode/tree/master/3321-type-of-triangle) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/mamdous-usual/leetcode/tree/master/3321-type-of-triangle) |
+## Polygons
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/mamdous-usual/leetcode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
