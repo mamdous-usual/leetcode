@@ -10,7 +10,7 @@ class Solution {
 
         // Using slope formula
         // (y2-y1) / (x2-x1) != (y3-y2) / (x3 - x2);
-        // same forumla (multiplication)
+        // same forumla (cross multiplication)
         return (y2-y1) * (x3 - x2) != (y3 - y2) * (x2-x1);
     }
 }
