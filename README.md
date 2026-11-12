@@ -22,6 +22,7 @@
 | ------- |
 | [1115-valid-boomerang](https://github.com/mamdous-usual/leetcode/tree/master/1115-valid-boomerang) |
 | [1260-day-of-the-year](https://github.com/mamdous-usual/leetcode/tree/master/1260-day-of-the-year) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/mamdous-usual/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mamdous-usual/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3321-type-of-triangle](https://github.com/mamdous-usual/leetcode/tree/master/3321-type-of-triangle) |
 ## Sorting
