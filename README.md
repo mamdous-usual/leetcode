@@ -5,6 +5,7 @@ A collection of my solutions to LeetCode problems, covering different topics and
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/mamdous-usual/leetcode/tree/master/0728-self-dividing-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mamdous-usual/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Simulation
 |  |
