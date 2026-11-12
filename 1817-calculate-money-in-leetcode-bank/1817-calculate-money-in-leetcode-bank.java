@@ -35,7 +35,7 @@ class Solution {
             startMonday++;
         }
 
-        return
+        return result;
     }
     */
 }
