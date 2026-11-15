@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mamdous-usual/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mamdous-usual/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/mamdous-usual/leetcode/tree/master/1642-water-bottles) |
+| [2507-number-of-common-factors](https://github.com/mamdous-usual/leetcode/tree/master/2507-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
@@ -34,4 +35,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mamdous-usual/leetcode/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/mamdous-usual/leetcode/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/mamdous-usual/leetcode/tree/master/2507-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/mamdous-usual/leetcode/tree/master/2507-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/mamdous-usual/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
