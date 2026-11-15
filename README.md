@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mamdous-usual/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/mamdous-usual/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mamdous-usual/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mamdous-usual/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -23,9 +24,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mamdous-usual/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/mamdous-usual/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/mamdous-usual/leetcode/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mamdous-usual/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
