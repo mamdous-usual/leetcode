@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0231-power-of-two](https://github.com/mamdous-usual/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/mamdous-usual/leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/mamdous-usual/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/mamdous-usual/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mamdous-usual/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mamdous-usual/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mamdous-usual/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mamdous-usual/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mamdous-usual/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mamdous-usual/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/mamdous-usual/leetcode/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -56,5 +59,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mamdous-usual/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mamdous-usual/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mamdous-usual/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mamdous-usual/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
