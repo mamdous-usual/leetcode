@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0268-missing-number](https://github.com/mamdous-usual/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mamdous-usual/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mamdous-usual/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1580-shuffle-the-array](https://github.com/mamdous-usual/leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/mamdous-usual/leetcode/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
