@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/mamdous-usual/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/mamdous-usual/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/mamdous-usual/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mamdous-usual/leetcode/tree/master/0268-missing-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/mamdous-usual/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/mamdous-usual/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mamdous-usual/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mamdous-usual/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
