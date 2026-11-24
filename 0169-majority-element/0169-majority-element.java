@@ -5,9 +5,9 @@ class Solution {
 
         for(int i=1; i<nums.length; i++) {
             if(vote == 0) {
-                vote++;
                 majority = nums[i];
-            } else if(nums[i] == majority) {
+                vote++;
+            } else if(majority == nums[i]) {
                 vote++;
             } else {
                 vote--;
@@ -15,7 +15,6 @@ class Solution {
         }
 
         return majority;
-        
     }
     /*
     public int majorityElement(int[] nums) { // Frequency
