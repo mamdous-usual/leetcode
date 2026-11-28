@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/mamdous-usual/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mamdous-usual/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mamdous-usual/leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/mamdous-usual/leetcode/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,7 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mamdous-usual/leetcode/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mamdous-usual/leetcode/tree/master/0169-majority-element) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mamdous-usual/leetcode/tree/master/0948-sort-an-array) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/mamdous-usual/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
